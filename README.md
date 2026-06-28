@@ -49,4 +49,5 @@
 ---
 
 > 🔗 **Google Scholar**: [Click here](https://scholar.google.com/citations?hl=en&user=sHtkwKsAAAAJ)  
+> 📄 **[Download Full CV (PDF)](CV.pdf)**
 > 📂 This portfolio is hosted on GitHub Pages.
