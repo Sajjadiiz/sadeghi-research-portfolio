@@ -1,6 +1,5 @@
 # 👨‍🔬 Dr. Sajjad Sadeghi - Research Portfolio
 <img src="Image.jpg" alt="Dr. Sajjad Sadeghi" width="150" align="right">
-
 **PhD in Toxicology** | Mazandaran University of Medical Sciences  
 📧 s.sadeghi@mazums.ac.ir | 📱 +98 915 983 9718  
 
