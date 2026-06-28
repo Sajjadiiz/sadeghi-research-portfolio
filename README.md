@@ -24,7 +24,7 @@
 1. Microfluidic Techniques in the Development of PLGA Nanoparticles... *Toxicology Research*, 2025.
 2. The pulmoprotective effects of pirfenidone against paraquat... *Egyptian Journal of Bronchology*, 2025.
 3. Detection of Undeclared Methamphetamine in Weight Loss Herbal Supplement, 2025.
-4. [View all 24+ publications on Google Scholar](https://scholar.google.com/citations?hl=en&user=sHtkwKsAAAAJ)
+4. [View all publications on Google Scholar](https://scholar.google.com/citations?hl=en&user=sHtkwKsAAAAJ)
 
 ---
 
