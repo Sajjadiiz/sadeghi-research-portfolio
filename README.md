@@ -15,9 +15,7 @@
 ---
 
 ## 🎓 Education
-- **PhD in Toxicology** (2021–2025) – Mazandaran Univ. of Med. Sci.
-- **MSc in Toxicology** (2019–2021) – Mazandaran Univ. of Med. Sci.
-- **BSc in Laboratory Sciences** (2009–2013) – Gonabad Univ. of Med. Sci.
+- **PhD in Toxicology** – Mazandaran Univ. of Med. Sci.
 
 ---
 
@@ -30,16 +28,17 @@
 ---
 
 ## 🛠️ Core Skills
-- **Analytical**: GC-MS, HPLC, LC-MS, IC, ELISA, PCR, Gel Electrophoresis
-- **Software**: SPSS, GraphPad Prism, R, STATA, EndNote
+- **Analytical**: GC-MS, HPLC, LC-MS, IC, ELISA, PCR, RT-PCR, Gel Electrophoresis, Flowcytometery
+- **Software**: SPSS, GraphPad Prism, R, STATA, EndNote, Python, Image J, Github, Molecular docking
 - **Standards**: ISO/IEC 17025, Quality Control, Laboratory Auditing
 
 ---
 
 ## 🏆 Achievements
-- 1st place in Health Startup Weekend (Wastewater heavy metal removal using nanoparticles) – 2022
 - Member of the National Forensic Medicine Research Center
-- Top-ranked laboratory supervisor (3 consecutive years)
+- Top-ranked laboratory supervisor in Iran (3 consecutive years)
+- 1st place in Health Startup Weekend (Wastewater heavy metal removal using nanoparticles) – 2022
+
 
 ---
 
@@ -50,6 +49,5 @@
 ---
 
 > 🔗 **Google Scholar**: [Click here](https://scholar.google.com/citations?hl=en&user=sHtkwKsAAAAJ)  
-> 📄 **[Download Full CV (PDF)](CV.pdf)**
 
 > 📂 This portfolio is hosted on GitHub Pages.
