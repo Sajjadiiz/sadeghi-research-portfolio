@@ -14,11 +14,6 @@
 
 ---
 
-## 🎓 Education
-- **PhD in Toxicology** – Mazandaran Univ. of Med. Sci.
-
----
-
 ## 📄 Selected Publications (ISI/Scopus)
 1. Microfluidic Techniques in the Development of PLGA Nanoparticles... *Toxicology Research*, 2025.
 2. The pulmoprotective effects of pirfenidone against paraquat... *Egyptian Journal of Bronchology*, 2025.
