@@ -43,6 +43,8 @@
 
 ---
 
-> 🔗 **Google Scholar**: [Click here](https://scholar.google.com/citations?hl=en&user=sHtkwKsAAAAJ)  
+> 🔗 **Google Scholar**: [Click here](https://scholar.google.com/citations?hl=en&user=sHtkwKsAAAAJ)
+> 🔗 **Linkedin**: [Click here](https://www.linkedin.com/feed/)
+> 🔗 **Academia**: [Click here](https://mazums.academia.edu/SajjadSadeghi)J
 
 > 📂 This portfolio is hosted on GitHub Pages.
